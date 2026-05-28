@@ -1,2 +1,0 @@
-# vicecitywebsite
-websitevicecity
